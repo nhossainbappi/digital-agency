@@ -107,7 +107,7 @@ border: none;
 .box{
     text-align: center;
     width:150px;
-    height: 100px;
+    height: 130px;
     padding: 50px;
     background-color: white;
     color: black;
@@ -309,4 +309,9 @@ margin-top: 10px;
 }
 .fa-light{
     margin-right: 5px;
+}
+
+.box:hover{
+    background-color: rgb(7, 191, 236);
+    color: aliceblue;
 }
